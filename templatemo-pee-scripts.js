@@ -49,7 +49,7 @@ https://templatemo.com/tm-600-pee-maom
             },
             {
                 id: 6,
-                title: 'AR Interface',
+                title: 'Interface',
                 description: 'Augmented reality system for immersive data visualization and interactive experiences.',
                 image: 'images/ar-interface.jpg',
                 tech: ['Unity', 'ARCore', 'Computer Vision']
@@ -480,4 +480,5 @@ https://templatemo.com/tm-600-pee-maom
             if (parallax) {
                 parallax.style.transform = `translateY(${scrolled * 0.5}px)`;
             }
+
         });
