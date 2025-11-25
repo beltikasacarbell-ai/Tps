@@ -284,7 +284,7 @@ body::after {
 }
 
 .logo-text .maom {
-    color: var(--accent-cyan);
+    color: var(--text-secondary);
     font-weight: 300;
     margin-left: 5px;
 }
@@ -1621,4 +1621,5 @@ a.info-item {
         gap: 20px;
         text-align: center;
     }
+
 }
