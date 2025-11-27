@@ -284,7 +284,7 @@ body::after {
 }
 
 .logo-text .maom {
-    color: var(--primary-black);
+    color: var(--text-secondary);
     font-weight: 300;
     margin-left: 5px;
 }
@@ -1623,4 +1623,5 @@ a.info-item {
     }
 
 }
+
 
