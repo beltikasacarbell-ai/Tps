@@ -2,9 +2,9 @@
 
 /*
 
-TemplateMo 600 Prism Flux
+TemplateMo 600 Beltika Sakaty
 
-https://templatemo.com/tm-600-prism-flux
+https://templatemo.com/tm-600-beltika-sakaty
 
 */
 
@@ -480,4 +480,5 @@ https://templatemo.com/tm-600-prism-flux
             if (parallax) {
                 parallax.style.transform = `translateY(${scrolled * 0.5}px)`;
             }
+
         });
