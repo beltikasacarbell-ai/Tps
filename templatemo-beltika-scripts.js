@@ -51,7 +51,7 @@ https://templatemo.com/tm-600-beltika-sakaty
                 id: 6,
                 title: 'UI Interface',
                 description: 'Augmented reality system for immersive data visualization and interactive experiences.',
-                image: 'images/ar-interface.jpg',
+                image: 'images/ui-interface.jpg',
                 tech: ['Unity', 'ARCore', 'Computer Vision']
             },
             {
