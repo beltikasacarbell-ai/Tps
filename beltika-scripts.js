@@ -28,8 +28,8 @@ malamley.vercel.app
             },
             {
                 id: 3,
-                title: 'Blockchain Vault',
-                description: 'Secure decentralized storage solution using advanced encryption and distributed ledger technology.',
+                title: '',
+                description: '.',
                 image: 'images/blockchain-vault.jpg',
                 tech: ['Ethereum', 'Solidity', 'Web3']
             },
