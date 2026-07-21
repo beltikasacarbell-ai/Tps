@@ -35,8 +35,8 @@ malamley.vercel.app
             },
             {
                 id: 4,
-                title: 'Cyber Defense',
-                description: 'Military-grade cybersecurity framework with real-time threat detection and automated response.',
+                title: 'Cyber',
+                description: '.',
                 image: 'images/cyber-defense.jpg',
                 tech: ['Zero Trust', 'AI Defense', 'Encryption']
             },
